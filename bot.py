@@ -16,7 +16,6 @@ import base64
 from datetime import datetime
 from telethon import TelegramClient
 from telethon.errors import UsernameNotOccupiedError, FloodWaitError
-from telethon.errors.rpcerrorlist import ApiTelegramException
 
 # ==================== CONFIG ====================
 BOT_TOKEN = "8664037209:AAHqed22av7jo2n6hVTEapArSMqt7eNbR8sx"
